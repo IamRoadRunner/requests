@@ -21,7 +21,8 @@ Custom User-Agents?
 -------------------
 
 Requests allows you to easily override User-Agent strings, along with
-any other HTTP Header.
+any other HTTP Header. See `documentation about headers <https://requests.readthedocs.io/en/master/user/quickstart/#custom-headers>`_.
+
 
 
 Why not Httplib2?
@@ -60,6 +61,7 @@ supported:
 * Python 3.4
 * Python 3.5
 * Python 3.6
+* Python 3.7
 * PyPy
 
 What are "hostname doesn't match" errors?

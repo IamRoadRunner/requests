@@ -8,11 +8,11 @@ Requests is under active development, and contributions are more than welcome!
 #. Check for open issues or open a fresh issue to start a discussion around a bug.
    There is a Contributor Friendly tag for issues that should be ideal for people who are not very
    familiar with the codebase yet.
-#. Fork `the repository <https://github.com/requests/requests>`_ on GitHub and start making your
+#. Fork `the repository <https://github.com/psf/requests>`_ on GitHub and start making your
    changes to a new branch.
 #. Write a test which shows that the bug was fixed.
 #. Send a pull request and bug the maintainer until it gets merged and published. :)
-   Make sure to add yourself to `AUTHORS <https://github.com/requests/requests/blob/master/AUTHORS.rst>`_.
+   Make sure to add yourself to `AUTHORS <https://github.com/psf/requests/blob/master/AUTHORS.rst>`_.
 
 Feature Freeze
 --------------
@@ -55,6 +55,7 @@ Requests currently supports the following versions of Python:
 - Python 3.4
 - Python 3.5
 - Python 3.6
+- Python 3.7
 - PyPy
 
 Google AppEngine is not officially supported although support is available
